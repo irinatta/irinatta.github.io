@@ -27,6 +27,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://github.com/irinatta/images/blob/main/pexels-rahul-pandit-1129253.jpg)
 ```
 
+
+Techtalent website: 
+[TechTalent Academy](https://techtalent.academy/)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
