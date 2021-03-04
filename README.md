@@ -18,7 +18,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+PYTHON BASIC REPOSITORY
+[GitHub](https://github.com/irinatta/new_repo)
 
 SQL db | NoSQL db
 ------------ | -------------
