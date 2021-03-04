@@ -19,6 +19,12 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+
+SQL db | NoSQL db
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 1. Numbered
 2. List
 
