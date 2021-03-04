@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 SQL db | NoSQL db
 ------------ | -------------
 Content from cell 1 | Content from cell 2
