@@ -23,6 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+TechTalent academy - automatic!
+[TTA academy](https://techtalent.academy/)
+
 [Link](https://github.com/irinatta/images/blob/main/pexels-rahul-pandit-1129253.jpg) and ![Image](https://github.com/irinatta/images/blob/main/pexels-rahul-pandit-1129253.jpg)
 ```
 
