@@ -18,6 +18,9 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+PYTHON BASIC REPOSITORY
+[GitHub](https://github.com/irinatta/new_repo)
+
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 SQL db | NoSQL db
 ------------ | -------------
